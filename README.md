@@ -9,4 +9,4 @@ Resting heart-rate is generally deemed to be the variation in heart rate under t
 
 Other methodologies have often included using accelorometer data as well. Epochs in accelorometer data with low gradient often allude to periods of "rest and relaxation" in R-R time series. 
 
-Feature extraction and further analysis of periods of resting heart rate have been often termed as a good predecssor of vagal tone.
+Feature extraction and further analysis of periods of resting heart rate have been often termed as a good pre-cursor of vagal tone.
